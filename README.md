@@ -13,7 +13,8 @@ Bir e-ticaret ürün sayfası
 Bir iletişim Sayfası
 
 Kurumsal web sayfası
-
+- https://github.com/safaemreozpolat/kurumsal/tree/main/kurumsal 
+- 
 Bir tane landing page
 
 Bir portfolyo sayfası hazırlayarak bunların repo linklerini ekleyiniz.
