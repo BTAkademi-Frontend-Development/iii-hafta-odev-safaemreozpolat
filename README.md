@@ -21,7 +21,7 @@ Bir iletişim Sayfası
 - https://github.com/safaemreozpolat/iletisim
 
 Kurumsal web sayfası
-- https://github.com/safaemreozpolat/kurumsal/tree/main/kurumsal 
+- https://github.com/safaemreozpolat/kurumsal 
 
 Bir tane landing page
 
